@@ -1,0 +1,37 @@
+*~
+*.bak
+*.mak
+Release/
+Debug/
+cleaner.sce
+loader.sce
+help/builder_help.sce
+help/en_US/master_help.xml
+help/en_US/scilab_fr_FR_help/
+jar/
+loader.sce
+sci_gateway/c/cleaner.sce
+sci_gateway/c/libcurl_gateway.c
+sci_gateway/c/libcurl_gateway.so
+sci_gateway/loader_gateway.sce
+src/c/cleaner.sce
+src/c/libcurllib.so
+src/c/loader.sce
+
+# Tests generated
+README
+index.html
+maths_simulation
+scilab_homepage.html
+
+#windows generated files
+src/c/libcurllib.def
+src/c/libcurllib.dll
+src/c/libcurllib.exp
+src/c/libcurllib.lib
+sci_gateway/c/curl_gateway.c
+sci_gateway/c/curl_gateway.def
+sci_gateway/c/curl_gateway.dll
+sci_gateway/c/curl_gateway.exp
+sci_gateway/c/curl_gateway.lib
+sci_gateway/c/loader.sce
